@@ -17,13 +17,14 @@
 
 
 ## About
-Sample project for **Unreal Engine 5.6 with CommonUI** without EnhancedInput.
+Sample project for **Unreal Engine 5.8 with CommonUI** without EnhancedInput.
 
 > [!NOTE]
 > It is easy to extend to support EnhancedInput, but for now this is for CommonUI basic foundation.
 
 
 ## Project Settings requirements
+The Config files should be enough to make the project run without any changes, but if something fails, check the required Project Settings below:
 ```
 Open Project Settings. (Menu Edit > Project Settings)
   Go to Game > Common Input Settings, Input Section:
